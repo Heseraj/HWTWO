@@ -1,0 +1,11 @@
+So, It seems I finallyk figured out how to take of it. 
+
+```{r}
+# Now, it is time to extensive practice and make sure tht i make the most of this learning. 
+
+data("mtcars")
+head(mtcars)
+
+
+```
+
